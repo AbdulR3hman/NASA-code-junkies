@@ -54,7 +54,7 @@ We have established for now:
 
 Future Improvements:
 
-		-- Fix the routation
+		-- Fix the rotation
 		-- Add Shuttle as part of the animations
 		-- Others!
 
