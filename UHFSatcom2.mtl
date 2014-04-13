@@ -1,0 +1,293 @@
+# File created by luuv TSX
+# Created on: Wed Jan 23 18:04:56 2013 5
+
+newmtl UHFSat_body
+Ns 0
+Ka 0.320000 0.320000 0.320000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+illum 2
+d 0.996078
+map_bump uhfbump.bmp 
+map_Kd uhfmap.bmp 
+
+newmtl UHFSat_antennas_toparray_antenna_ant3
+Ns 0
+Ka 0.250000 0.250000 0.250000
+Kd 0.823529 0.823529 0.823529
+Ks 0.480000 0.480000 0.480000
+d 0.996078
+
+newmtl UHFSat_antennas_toparray_antenna_bolts_hexhead
+Ns 0
+Ka 0.190000 0.190000 0.190000
+Kd 1.000000 1.000000 1.000000
+Ks 0.920000 0.920000 0.920000
+d 0.996078
+
+newmtl UHFSat_antennas_toparray_antenna_bolts_hexhead,1
+Ns 0
+Ka 0.190000 0.190000 0.190000
+Kd 1.000000 1.000000 1.000000
+Ks 0.920000 0.920000 0.920000
+d 0.996078
+
+newmtl UHFSat_antennas_toparray_antenna_bolts_hexhead,2
+Ns 0
+Ka 0.190000 0.190000 0.190000
+Kd 1.000000 1.000000 1.000000
+Ks 0.920000 0.920000 0.920000
+d 0.996078
+
+newmtl UHFSat_antennas_toparray_antenna_bolts_hexhead,3
+Ns 0
+Ka 0.190000 0.190000 0.190000
+Kd 1.000000 1.000000 1.000000
+Ks 0.920000 0.920000 0.920000
+d 0.996078
+
+newmtl UHFSat_antennas_toparray_antenna,1_ant3
+Ns 0
+Ka 0.250000 0.250000 0.250000
+Kd 0.823529 0.823529 0.823529
+Ks 0.480000 0.480000 0.480000
+d 0.996078
+
+newmtl UHFSat_antennas_toparray_antenna,1_bolts_hexhead
+Ns 0
+Ka 0.190000 0.190000 0.190000
+Kd 1.000000 1.000000 1.000000
+Ks 0.920000 0.920000 0.920000
+d 0.996078
+
+newmtl UHFSat_antennas_toparray_antenna,1_bolts_hexhead,1
+Ns 0
+Ka 0.190000 0.190000 0.190000
+Kd 1.000000 1.000000 1.000000
+Ks 0.920000 0.920000 0.920000
+d 0.996078
+
+newmtl UHFSat_antennas_toparray_antenna,1_bolts_hexhead,2
+Ns 0
+Ka 0.190000 0.190000 0.190000
+Kd 1.000000 1.000000 1.000000
+Ks 0.920000 0.920000 0.920000
+d 0.996078
+
+newmtl UHFSat_antennas_toparray_antenna,1_bolts_hexhead,3
+Ns 0
+Ka 0.190000 0.190000 0.190000
+Kd 1.000000 1.000000 1.000000
+Ks 0.920000 0.920000 0.920000
+d 0.996078
+
+newmtl UHFSat_antennas_toparray_antenna,2_ant3
+Ns 0
+Ka 0.250000 0.250000 0.250000
+Kd 0.823529 0.823529 0.823529
+Ks 0.480000 0.480000 0.480000
+d 0.996078
+
+newmtl UHFSat_antennas_toparray_antenna,2_bolts_hexhead
+Ns 0
+Ka 0.190000 0.190000 0.190000
+Kd 1.000000 1.000000 1.000000
+Ks 0.920000 0.920000 0.920000
+d 0.996078
+
+newmtl UHFSat_antennas_toparray_antenna,2_bolts_hexhead,1
+Ns 0
+Ka 0.190000 0.190000 0.190000
+Kd 1.000000 1.000000 1.000000
+Ks 0.920000 0.920000 0.920000
+d 0.996078
+
+newmtl UHFSat_antennas_toparray_antenna,2_bolts_hexhead,2
+Ns 0
+Ka 0.190000 0.190000 0.190000
+Kd 1.000000 1.000000 1.000000
+Ks 0.920000 0.920000 0.920000
+d 0.996078
+
+newmtl UHFSat_antennas_toparray_antenna,2_bolts_hexhead,3
+Ns 0
+Ka 0.190000 0.190000 0.190000
+Kd 1.000000 1.000000 1.000000
+Ks 0.920000 0.920000 0.920000
+d 0.996078
+
+newmtl UHFSat_antennas_toparray_antenna,3_ant3
+Ns 0
+Ka 0.250000 0.250000 0.250000
+Kd 0.823529 0.823529 0.823529
+Ks 0.480000 0.480000 0.480000
+d 0.996078
+
+newmtl UHFSat_antennas_toparray_antenna,3_bolts_hexhead
+Ns 0
+Ka 0.190000 0.190000 0.190000
+Kd 1.000000 1.000000 1.000000
+Ks 0.920000 0.920000 0.920000
+d 0.996078
+
+newmtl UHFSat_antennas_toparray_antenna,3_bolts_hexhead,1
+Ns 0
+Ka 0.190000 0.190000 0.190000
+Kd 1.000000 1.000000 1.000000
+Ks 0.920000 0.920000 0.920000
+d 0.996078
+
+newmtl UHFSat_antennas_toparray_antenna,3_bolts_hexhead,2
+Ns 0
+Ka 0.190000 0.190000 0.190000
+Kd 1.000000 1.000000 1.000000
+Ks 0.920000 0.920000 0.920000
+d 0.996078
+
+newmtl UHFSat_antennas_toparray_antenna,3_bolts_hexhead,3
+Ns 0
+Ka 0.190000 0.190000 0.190000
+Kd 1.000000 1.000000 1.000000
+Ks 0.920000 0.920000 0.920000
+d 0.996078
+
+newmtl UHFSat_antennas_bottomarray_antenna_ant3
+Ns 0
+Ka 0.250000 0.250000 0.250000
+Kd 0.823529 0.823529 0.823529
+Ks 0.480000 0.480000 0.480000
+d 0.996078
+
+newmtl UHFSat_antennas_bottomarray_antenna_bolts_hexhead
+Ns 0
+Ka 0.190000 0.190000 0.190000
+Kd 1.000000 1.000000 1.000000
+Ks 0.920000 0.920000 0.920000
+d 0.996078
+
+newmtl UHFSat_antennas_bottomarray_antenna_bolts_hexhead,1
+Ns 0
+Ka 0.190000 0.190000 0.190000
+Kd 1.000000 1.000000 1.000000
+Ks 0.920000 0.920000 0.920000
+d 0.996078
+
+newmtl UHFSat_antennas_bottomarray_antenna_bolts_hexhead,2
+Ns 0
+Ka 0.190000 0.190000 0.190000
+Kd 1.000000 1.000000 1.000000
+Ks 0.920000 0.920000 0.920000
+d 0.996078
+
+newmtl UHFSat_antennas_bottomarray_antenna_bolts_hexhead,3
+Ns 0
+Ka 0.190000 0.190000 0.190000
+Kd 1.000000 1.000000 1.000000
+Ks 0.920000 0.920000 0.920000
+d 0.996078
+
+newmtl UHFSat_antennas_bottomarray_antenna,1_ant3
+Ns 0
+Ka 0.250000 0.250000 0.250000
+Kd 0.823529 0.823529 0.823529
+Ks 0.480000 0.480000 0.480000
+d 0.996078
+
+newmtl UHFSat_antennas_bottomarray_antenna,1_bolts_hexhead
+Ns 0
+Ka 0.190000 0.190000 0.190000
+Kd 1.000000 1.000000 1.000000
+Ks 0.920000 0.920000 0.920000
+d 0.996078
+
+newmtl UHFSat_antennas_bottomarray_antenna,1_bolts_hexhead,1
+Ns 0
+Ka 0.190000 0.190000 0.190000
+Kd 1.000000 1.000000 1.000000
+Ks 0.920000 0.920000 0.920000
+d 0.996078
+
+newmtl UHFSat_antennas_bottomarray_antenna,1_bolts_hexhead,2
+Ns 0
+Ka 0.190000 0.190000 0.190000
+Kd 1.000000 1.000000 1.000000
+Ks 0.920000 0.920000 0.920000
+d 0.996078
+
+newmtl UHFSat_antennas_bottomarray_antenna,1_bolts_hexhead,3
+Ns 0
+Ka 0.190000 0.190000 0.190000
+Kd 1.000000 1.000000 1.000000
+Ks 0.920000 0.920000 0.920000
+d 0.996078
+
+newmtl UHFSat_antennas_bottomarray_antenna,2_ant3
+Ns 0
+Ka 0.250000 0.250000 0.250000
+Kd 0.823529 0.823529 0.823529
+Ks 0.480000 0.480000 0.480000
+d 0.996078
+
+newmtl UHFSat_antennas_bottomarray_antenna,2_bolts_hexhead
+Ns 0
+Ka 0.190000 0.190000 0.190000
+Kd 1.000000 1.000000 1.000000
+Ks 0.920000 0.920000 0.920000
+d 0.996078
+
+newmtl UHFSat_antennas_bottomarray_antenna,2_bolts_hexhead,1
+Ns 0
+Ka 0.190000 0.190000 0.190000
+Kd 1.000000 1.000000 1.000000
+Ks 0.920000 0.920000 0.920000
+d 0.996078
+
+newmtl UHFSat_antennas_bottomarray_antenna,2_bolts_hexhead,2
+Ns 0
+Ka 0.190000 0.190000 0.190000
+Kd 1.000000 1.000000 1.000000
+Ks 0.920000 0.920000 0.920000
+d 0.996078
+
+newmtl UHFSat_antennas_bottomarray_antenna,2_bolts_hexhead,3
+Ns 0
+Ka 0.190000 0.190000 0.190000
+Kd 1.000000 1.000000 1.000000
+Ks 0.920000 0.920000 0.920000
+d 0.996078
+
+newmtl UHFSat_antennas_bottomarray_antenna,3_ant3
+Ns 0
+Ka 0.250000 0.250000 0.250000
+Kd 0.823529 0.823529 0.823529
+Ks 0.480000 0.480000 0.480000
+d 0.996078
+
+newmtl UHFSat_antennas_bottomarray_antenna,3_bolts_hexhead
+Ns 0
+Ka 0.190000 0.190000 0.190000
+Kd 1.000000 1.000000 1.000000
+Ks 0.920000 0.920000 0.920000
+d 0.996078
+
+newmtl UHFSat_antennas_bottomarray_antenna,3_bolts_hexhead,1
+Ns 0
+Ka 0.190000 0.190000 0.190000
+Kd 1.000000 1.000000 1.000000
+Ks 0.920000 0.920000 0.920000
+d 0.996078
+
+newmtl UHFSat_antennas_bottomarray_antenna,3_bolts_hexhead,2
+Ns 0
+Ka 0.190000 0.190000 0.190000
+Kd 1.000000 1.000000 1.000000
+Ks 0.920000 0.920000 0.920000
+d 0.996078
+
+newmtl UHFSat_antennas_bottomarray_antenna,3_bolts_hexhead,3
+Ns 0
+Ka 0.190000 0.190000 0.190000
+Kd 1.000000 1.000000 1.000000
+Ks 0.920000 0.920000 0.920000
+d 0.996078
+# End
