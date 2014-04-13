@@ -66,4 +66,5 @@ Notice: All authors were present in person at York University - Computer Science
 
 
 
+Legal Notice: Background image taken from http://sambees.deviantart.com/
 
