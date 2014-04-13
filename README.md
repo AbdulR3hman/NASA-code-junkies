@@ -59,14 +59,14 @@ Future Improvements:
 		-- Others!
 
 
-Draw Backs:
+Drawbacks:
 
 		-- Collision Detection System is needed
 		-- 2D mathematical modelling where 3D is more practical and realistic
 
 
 
-Future Commitements:
+Future Commitments:
 
 		The team is very keen to keep developing this application...
 
