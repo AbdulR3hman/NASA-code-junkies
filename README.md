@@ -59,7 +59,7 @@ Future Improvements:
 
 
 
-For Team: Code Junckies "Happy Coding"
+From Team Code Junckies: "Happy Coding"
 
 Notice: All authors were present in person at York University - Computer Science School at the time of the challenge...
 
