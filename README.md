@@ -13,11 +13,11 @@ Authors:
 			Degree:  Physicist 3rd Year Ungergradute OpenUniversity
 
 		Aleksej Parovysnik :
-			Role:	Animations 
+			Role:	Animations Rendering  
 			Degree: Computer Science 3rd Year Undergradute Newcastle University
 
 		Manu Antony: 
-			Role: 	Interfacing Stages
+			Role: 	Animations & Interfacing Stages
 			Degree: Computer and Electronic Engineering 3rd Year Newcastle University 
 
 		Maio Wei: 	(AKA Awesome TED)
@@ -25,7 +25,7 @@ Authors:
 			Degree:	Electrical Engineering 1st Year Liverpool University
 
 		Ashish Patil:
-			Role: GUI Coder
+			Role: Layout Designer & GUI Coder
 			Degree: Advanced Computer Science Master Newcastle University
 		
 		Abdul AL-Faraj:
@@ -54,10 +54,20 @@ We have established for now:
 
 Future Improvements:
 
-		-- Fix the rotation
-		-- Add Shuttle as part of the animations
+		-- Fix the rotation [Done]
+		-- Add Shuttle as part of the animations [Done]
 		-- Others!
 
+
+Draw Backs:
+		-- Collision Detection System is needed
+		-- 2D mathematical modelling where 3D is more practical and realistic
+
+
+
+Future Commitements:
+
+		The team is very keen to keep developing this application...
 
 
 From Team Code Junckies: "Happy Coding"
