@@ -36,10 +36,10 @@ Authors:
 Description:
 		There are 4 stages of this project:
 
-		1- GUI (user interface) which helps the user to navigate of available list of shuttles to loca		      te near objects.
-		2- The GUI also includes an animation part of the GUI where earth, satellites and shuttles are 		      simulated in real time.
-		3- Orbits equations that bounds the shuttle objects and the satellites objects (this part we c		      all the physics engine )
-		4- Interfacing all the previous 3 stages done at the end of the project through wrapper classe		      s and others.
+		1- GUI (user interface) which helps the user to navigate of available list of shuttles to locate near objects.
+		2- The GUI also includes an animation part of the GUI where earth, satellites and shuttles aresimulated in real time.
+		3- Orbits equations that bounds the shuttle objects and the satellites objects (this part we call the physics engine )
+		4- Interfacing all the previous 3 stages done at the end of the project through wrapper classes and others.
 
 		The project is built in Java; utilizing Java3D library as well as others.
 
